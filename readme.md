@@ -28,6 +28,8 @@ Navigate to [http://localhost:9222/](http://localhost:9222/)
 
 Install the below package.
 
+    $ pip install Scrapy
+    
     $ npm i --save puppeteer
 
     $ pip install selenium
